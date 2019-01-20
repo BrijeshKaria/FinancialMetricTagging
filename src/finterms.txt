@@ -1,0 +1,107 @@
+Revenue
+Expenses
+Depreciation
+Earnings & Adjusted Earnings
+Earnings-Per-Share
+Gross Margin
+Operating Margin
+Net Margin
+Assets
+Current Assets
+Liabilities
+Current Liabilities
+Debt
+Equity
+Capital Expenditures
+Operating Cash flow & Cash Flow from Operations
+Free Cash Flow
+Market Capitalization
+Enterprise Value
+Ticker
+Sector
+Volume
+Return on Assets
+ROA
+Return on Equity
+ROE
+Return on Invested Capital
+ROIC
+Cash Return on Invested Capital
+CROIC
+Gross Profitability Ratio
+Standard Deviation
+Beta
+Maximum Drawdown
+Value at Risk (abbreviated VaR)
+Margin of Safety
+Sloan Ratio
+Piotroski F-Score
+Altman-Z Score
+Beneish-M Score
+Sharpe Ratio
+Treynor Ratio
+Sortino Ratio
+Calmar Ratio & MAR Ratio
+Sterling Ratio
+Omega Ratio
+Information Ratio
+Upside & Downside Capture Ratios
+Dividend Yield
+Dividend Payout Ratio
+Dividend Payback Period
+Yield on Cost
+Dividend Discount Model
+Dividend History
+Arithmetic Growth Rate
+Geometric Growth Rate
+Total Return
+Survivorship bias
+Price-To Earnings Ratio
+Enterprise Value to EBITDA
+Enterprise Value to EBIT
+Enterprise Value to Free Cash Flow
+Price to Sales
+Price to Book Value
+Price to Tangible Book Value
+Forward Price to Earnings Ratio
+Price to Earnings to Growth Ratio
+PEG
+Modified Price to Earnings to Growth Ratio
+Shiller Price to Earnings Ratio
+Negative Enterprise Value
+Discount to Net Current Asset Value
+Discounted Cash Flow
+Earnings Yield
+Magic Formula
+Net Net Working Capital
+Shareholder Yield
+Graham Number
+Equity to Assets Ratio
+Cash Flow to Debt Coverage Ratio
+Quick Ratio
+Debt to Equity Ratio
+Interest Coverage Ratio
+52 Week Range
+Momentum
+Simple Moving Average
+Relative Strength Index
+RSI
+Average True Range
+Alpha
+Risk Free Rate of Return
+WACC
+R-Squared
+Active Share
+Tracking Error
+Correlation
+Owner’s Earnings
+FFO
+AFFO
+Short Ratio
+Insider Ownership
+Institutional Ownership
+Cash Conversion Cycle
+Days Sales of Inventory
+Days Sales Outstanding
+Days Payable Outstanding
+Inventory Turnover Ratio
